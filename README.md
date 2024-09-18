@@ -1,4 +1,4 @@
-<h2>Hey there! I'm Giang Đàm</h2>
+<h2>Hey there! I'm Giang Đàm <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"></h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -48,6 +48,12 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wakiwaki2922&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+![](https://komarev.com/ghpvc/?username=wakiwaki2922&color=blueviolet)
+
+### 🐍 Contribution Graph
+
+![Snake animation](https://github.com/wakiwaki2922/wakiwaki2922/blob/output/github-contribution-grid-snake.svg)
 
 ### 🤝🏻 &nbsp;Connect with Me
 
