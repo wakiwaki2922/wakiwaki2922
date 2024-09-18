@@ -8,7 +8,7 @@
 🔧 &nbsp;I enjoy working with various technologies, from low-level hardware to high-level software development.\
 ✍️ &nbsp;In my free time, I enjoy listening to music and exploring the latest hardware innovations.\
 💬 &nbsp;I approach my work with dedication, constantly striving to learn and grow in my field.\
-✉️ &nbsp;You can shoot me an email at giangdq.01012003@gmail.com! I'll try to respond as soon as I can.
+✉️ &nbsp;You can shoot me an email at giangdq.01012003@gmail.com!! I'll try to respond as soon as I can.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
